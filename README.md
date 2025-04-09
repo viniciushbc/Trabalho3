@@ -1,23 +1,32 @@
-# TRABALHO SOBRE INTRODUÇÃO À PYTHON 
-Alunos: João Pedro Tonatto Fraga e Vinícius Henrique Budag Coelho <br>
-Professor: Felipe Viel<br>
-Disciplina: Introdução à Ciência da Computação<br>
-# Sobre o projeto 
-<p> Este projeto é destinado para iniciantes, utilizado como exemplo educacional. </p> <br> 
-<p> O objetivo deste projeto é demonstrar o uso da morfologia em imagens, através de um exemplo simples de uma imagem com a letra "J". </p> <br>
-<p> Morfologia nada mais é do que uma área do processamento de imagens que permite realizar transformações e operações baseadas na forma e estrutura dos objetos presentes nas imagens. </p> 
+# 📷 Introdução à Morfologia com Python e OpenCV
 
-# Tecnologias utilizadas 
-- Python
+👨‍🎓 Alunos: João Pedro Tonatto Fraga e Vinícius Henrique Budag Coelho  
+👨‍🏫 Professor: Felipe Viel  
 
-# Requisitos
-- É necessário ter o Python 3.x instalado
-# Bibliotecas utilizadas
-- OpenCV (biblioteca para processamento de imagens)
-- NumPy (biblioteca para operações numéricas)  
-# Como executar o projeto 
-1. Certifique-se de ter as bibliotecas OpenCV e NumPy instaladas.
-2. Adicione as imagens 'j.png', 'j_ruido.png' e 'j_furos.png' no mesmo diretório do código Python.
-3. Rodar o arquivo Python e observar os resultados.
-# Referência
-[ColabProjects](https://github.com/VielF/ColabProjects/blob/main/Exemplo_Morfologia.ipynb)
+---
+
+## 📚 Sobre o Projeto
+
+Este projeto é destinado a iniciantes e foi desenvolvido como **exemplo educacional** para ilustrar o uso da **morfologia no processamento de imagens** utilizando Python e OpenCV.
+
+🧪 O objetivo principal é demonstrar, de forma prática, como **operações morfológicas** podem ser aplicadas a uma imagem simples contendo a letra "J".
+
+---
+
+## 🧠 O que é Morfologia?
+
+A **morfologia matemática** é uma área do processamento de imagens que permite realizar **transformações estruturais** baseadas na forma dos objetos presentes em uma imagem.  
+As operações mais comuns são:
+
+- **Opening (Abertura):** remove pequenos ruídos.
+- **Closing (Fechamento):** preenche pequenos buracos.
+
+---
+
+## 🔧 Tecnologias Utilizadas
+
+- 🐍 **Python 3**
+- 📦 **OpenCV** – Biblioteca para processamento de imagens
+- ➗ **NumPy** – Biblioteca para operações numéricas e matriciais
+
+---
